@@ -1,5 +1,6 @@
 const btn = document.getElementById('button')
 
+
 const randomColor = () => {
     
     let val = '0123456789ABCDEF';
